@@ -1,4 +1,4 @@
 'use strict';
-let number = 56783;
-console.log(5, 6, 7, 8, 3);
+let number= '67854';
+console.log(number[0],number[1],number[2],number[3],number[4]);
 
