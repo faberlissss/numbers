@@ -1,4 +1,5 @@
 'use strict';
-let number= '67854';
-console.log(number[0],number[1],number[2],number[3],number[4]);
+let number = 45673;
+let digit = String(number);
+console.log(digit[0],digit[1],digit[2],digit[3],digit[4]);
 
